@@ -43,16 +43,13 @@
     "softSkills": [
       "Empatia",
       "Liderança",
-      "Trabalho em equipe",
+      "Bom relacionamento interpessoal para trabalho em equipe",
       "Flexibilidade",
-      "Organização e comprometimento"
+      "Organização e comprometimento",
+      "Disposição para o aprendizado e aprimoramento contínuos"
     ]
   },
-  "languages": [
-    "Português BR",
-    "Inglês (Básico)"
-   
-  ],
+  "languages": ["Português BR", "Inglês (Básico)"],
   "portfolio": [
     {
       "name": "Introdução ao Desenvolvimento Moderno de Software",
@@ -63,28 +60,18 @@
       "name": "Lógica de Programação Essencial",
       "url": "https://hermes.digitalinnovation.one/certificates/BA5F8F7B.pdf?_gl=1*rxn5g*_ga*OTM3OTk1OTcwLjE2NzgyOTYxNTU.*_ga_7GXMH3CQ72*MTY5NjUzODU1NS4xMTUuMS4xNjk2NTM5Njg2LjYwLjAuMA..",
       "github": false
-    },
-    {
-      "name": "Lógica de Programação Essencial",
-      "url": "",
-      "github": true
     }
   ],
   "professionalExperience": [
     {
-      "name": "Arquiteto de software / S3 BANK",
-      "period": "2022 - até o momento",
-      "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
+      "name": "Técnico em automação industrial / FGS Automação Industrial",
+      "period": "03/2019 até  04/2022",
+      "description": "Participação no desenvolvimento de projetos eletrônicos para automação de terminais de combustivéis."
     },
     {
-      "name": "Software Engineering Lead / DIO",
-      "period": "2021 - 2022",
-      "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
-    },
-    {
-      "name": "CEO / Brain Machine",
-      "period": "2016 - 2021",
-      "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
+      "name": " Auxiliar Tecnico em Automação /  PHD Master Consultoria Ltda",
+      "period": "07/2013 até 03/2019",
+      "description": "Manutenção preventiva e corretiva de máquinas e equipamentos industriais, contribuindo para aumentar a vida útil dos ativos, evitando interrupções no processo produtivo."
     }
   ]
 }
